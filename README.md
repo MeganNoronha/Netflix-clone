@@ -5,6 +5,9 @@ This project was created and cloned from DataStax Developers, during the summer 
 
 The workshop was extremely interesting, it was a great introduction to creating and managing databases. 
 
+The final site i created was: https://megan-n-netflix-clone.netlify.app/
+
+
 
 
 
