@@ -1,4 +1,13 @@
 <!--- STARTEXCLUDE --->
+Project of summer 2021
+
+This project was created and cloned from DataStax Developers, during the summer I decided to attend their workshop and create a basic clone of the netflix site.
+
+The workshop was extremely interesting, it was a great introduction to creating and managing databases. 
+
+
+
+
 # 🎓 Netflix Clone using Astra DB and GraphQL
 
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/from-referrer/)
