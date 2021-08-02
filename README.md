@@ -1,11 +1,12 @@
 <!--- STARTEXCLUDE --->
-Project of summer 2021
+# Project of summer 2021
 
 This project was created and cloned from DataStax Developers, during the summer I decided to attend their workshop and create a basic clone of the netflix site.
 
-The workshop was extremely interesting, it was a great introduction to creating and managing databases. 
+The workshop was extremely interesting, it was a great introduction to creating and mutating databases and then integrating those databases with a site. 
 
-The final site i created was: https://megan-n-netflix-clone.netlify.app/
+The final site I created was: https://megan-n-netflix-clone.netlify.app/
+
 
 
 
