@@ -3,9 +3,17 @@
 
 This project was created and cloned from DataStax Developers, during the summer I decided to attend their workshop and create a basic clone of the netflix site.
 
-The workshop was extremely interesting, it was a great introduction to creating and mutating databases and then integrating those databases with a site. 
+The workshop was extremely interesting, it was a great introduction to creating and mutating databases and then integrating those databases with a site. It was a great learning expierence, I am very thankful to the DataStax Developers was creating this. I got introduced to a lot of new and useful software like AstraDB, GitPod, Netlify etc. that I am sure I will keep using.
 
 The final site I created was: https://megan-n-netflix-clone.netlify.app/
+
+Project summary:
+
+I started with creating a database on AstraDB and creating a token to use as an identifier when interacting with the API. After that I used the GraphQL API to create and query tables for the database. I then created two tables: reference_list to store the different genres of the movies and  movies_by_genre to store the movies we will insert. First I inserted movies into the table using a insert mutation in GraphQL, then I loaded the data by uploading csv dataset in AstraDB.
+
+The next step was to take the app we have on the github repo and deploy it to the hosting service, we used netlify as our global CDN and hosting service. Netlify cloned the repositroy and used the code to build the site and deploy it. Then I launched GitPod, an cloud based IDE, to connect Netlify to the database so that the data(movies) would be visible. After the databse was connected the movies could be seen on the site. 
+
+As homework, I also inserted a couple of movies in the musical section using mutations in the GraphQL playground. The finished project can be found on: https://megan-n-netflix-clone.netlify.app/
 
 
 
