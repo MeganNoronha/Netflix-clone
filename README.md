@@ -13,7 +13,9 @@ I started with creating a database on AstraDB and creating a token to use as an 
 
 The next step was to take the app we have on the github repo and deploy it to the hosting service, we used netlify as our global CDN and hosting service. Netlify cloned the repositroy and used the code to build the site and deploy it. Then I launched GitPod, an cloud based IDE, to connect Netlify to the database so that the data(movies) would be visible. After the databse was connected the movies could be seen on the site. 
 
-As homework, I also inserted a couple of movies in the musical section using mutations in the GraphQL playground. The finished project can be found on: https://megan-n-netflix-clone.netlify.app/
+As homework, I also inserted a couple of movies in the musical section using mutations in the GraphQL playground. 
+My certificate of completion: https://badgr.com/public/assertions/tORbXhWjS-OWew9qiRVtnw?identity__email=megan.noronha@utexas.edu
+The finished project can be found on: https://megan-n-netflix-clone.netlify.app/
 
 
 
