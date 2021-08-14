@@ -15,6 +15,7 @@ The next step was to take the app we have on the github repo and deploy it to th
 
 As homework, I also inserted a couple of movies in the musical section using mutations in the GraphQL playground. 
 My certificate of completion: https://badgr.com/public/assertions/tORbXhWjS-OWew9qiRVtnw?identity__email=megan.noronha@utexas.edu
+
 The finished project can be found on: https://megan-n-netflix-clone.netlify.app/
 
 
